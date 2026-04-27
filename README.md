@@ -74,5 +74,9 @@ This project strengthened my understanding of game feel, input handling across p
 
 
 ## 📫 Contact
-- 🌐 [Portfolio](https://sebferretto.github.io)
+
+- 🌐 Portfolio: https://sebferretto.github.io  
+- 💼 LinkedIn: https://www.linkedin.com/in/sebastian-ferretto
+- 🐙 GitHub: https://github.com/sebferretto  
+- 📧 Email: sebastian.ferretto22@gmail.com
 
