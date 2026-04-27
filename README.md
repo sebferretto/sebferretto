@@ -43,40 +43,27 @@ These projects focus on gameplay systems, AI behaviour, and interactive design r
 ---
 
 ### 🎮 [Blickee Bee](https://sbstn-fr.itch.io/blickee-bee)
-Built in Unity using C#
 
-A Unity gameplay project focused on AI behaviour, player interaction systems, progression design, and game loop development.
-
-Built a wave-based defence game where the player spawns and manages bees that autonomously engage enemies using range-based targeting and attack logic. Implemented enemy AI where birds actively seek and pursue targets.
-
-Developed interaction systems including automatic range-based targeting, projectile-based combat with collision detection, right-click override targeting, and idle behaviour where units follow the cursor.
-
-Designed a day/night cycle with increasing difficulty and a wave system that scales over time. Added a points-based economy with upgrades, persistent saving, UI feedback, audio cues, and cursor state changes.
-
-This project strengthened my understanding of game loop design, AI behaviour systems, collision systems, state management, and gameplay balancing.
+* Wave-based defence game with autonomous bee units and enemy AI
+* Range-based targeting, projectile combat, and right-click override targeting
+* Day/night cycle with scaling difficulty and a points-based upgrade system
+* Persistent saving, UI feedback, and audio cues
 
 ---
 
 ### 🎮 [Swimmy Fihh](https://sbstn-fr.itch.io/swimmy-fihh)
-Built in Unity using C#
 
-A Unity arcade-style game focused on responsive controls, difficulty scaling, and cross-platform gameplay.
-
-Developed a Flappy Bird-inspired prototype playable on both desktop and mobile via browser deployment on itch.io.
-
-Implemented physics-based movement and procedural obstacle generation, where the player navigates increasingly difficult gaps. Designed a dynamic difficulty system that increases speed and reduces gap size over time.
-
-Focused on responsive controls, consistent collision detection, and smooth gameplay feedback across devices.
-
-This project strengthened my understanding of game feel, input handling across platforms, and difficulty progression design.
-
+* Flappy Bird-style arcade game, playable on desktop and mobile via itch.io
+* Physics-based movement with procedural obstacle generation
+* Dynamic difficulty — speed and gap size scale over time
+  
 ---
 
 
-## 📫 Contact
+##  Contact
 
 - 🌐 Portfolio: https://sebferretto.github.io  
-- 💼 LinkedIn: https://www.linkedin.com/in/sebastian-ferretto
-- 🐙 GitHub: https://github.com/sebferretto  
-- 📧 Email: sebastian.ferretto22@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sebastian-ferretto
+- GitHub: https://github.com/sebferretto  
+- Email: sebastian.ferretto22@gmail.com
 
