@@ -30,9 +30,9 @@ a long-term goal of working in game development.
 
 ## Featured Projects
 
-- 🖥️ [C++ Disk Usage Tool](https://github.com/sebferretto/cpp-disk-usage-tool) -- A command-line tool inspired by the UNIX `du` command
-- 🎲 [Java Craps Game](https://github.com/sebferretto/java-craps-game) -- A GUI-based multiplayer Craps game built with Java
-- 🌐 [Portfolio Website](https://sebferretto.github.io) -- Built with responsive design and CSS transitions, and showcases Unity Engine game projects
+- 🖥️ [C++ Disk Usage Tool](https://github.com/sebferretto/cpp-disk-usage-tool) - A command-line tool inspired by the UNIX `du` command
+- 🎲 [Java Craps Game](https://github.com/sebferretto/java-craps-game) - A GUI-based multiplayer Craps game built with Java
+- 🌐 [Portfolio Website](https://sebferretto.github.io) - Built with responsive design and CSS transitions, and showcases Unity Engine game projects
 
 ---
 
@@ -55,7 +55,7 @@ These projects focus on gameplay systems, AI behaviour, and interactive design r
 
 * Flappy Bird-style arcade game, playable on desktop and mobile via itch.io
 * Physics-based movement with procedural obstacle generation
-* Dynamic difficulty — speed and gap size scale over time
+* Dynamic difficulty - speed and gap size scale over time
   
 ---
 
