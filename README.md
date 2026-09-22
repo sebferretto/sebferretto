@@ -1,11 +1,11 @@
-# Hi, I'm Sebastian 👋
+# Hi, I'm Sebastian
 
 Computer Programming student at Fanshawe College, focused on C++ and 
 object-oriented programming with a growing interest in game development.
 
 I've built projects across multiple environments, from a C++ disk usage 
 tool to a Java GUI-based Craps game, and two Unity Engine games focused
-on gameplay logic and interactive systems. I also have 
+on gameplay logic and interactive systems. I have 
 experience with SQL, and web development using HTML and CSS.
 
 I'm currently strengthening my skills in data structures and algorithms while 
